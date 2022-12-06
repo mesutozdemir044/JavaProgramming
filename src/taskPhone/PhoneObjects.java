@@ -10,6 +10,8 @@ public class PhoneObjects {
         System.out.println(nk1);
         System.out.println(s1);
         System.out.println(s1);
+        System.out.println(nk1);
+        System.out.println(s1);
 
     }
 
